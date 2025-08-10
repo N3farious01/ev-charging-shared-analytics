@@ -1,3 +1,5 @@
+![EV Charging Station](charging_station.jpg)
+
 📁 Project Title: Analyzing EV Charging Sessions at Shared Stations
 
 🧠 Description:
